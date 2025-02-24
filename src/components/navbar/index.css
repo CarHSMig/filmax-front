@@ -1,0 +1,16 @@
+header {
+  .navbar {
+    background-color: #060133;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 15px 16px -7 rgba(0, 0, 0, 0.1);
+    padding: 2px 3%;
+  }
+
+  .logo {
+    img {
+      width: 150px;
+      height: 100%;
+    }
+  }
+}
