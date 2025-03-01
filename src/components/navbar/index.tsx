@@ -27,9 +27,9 @@ export default function Navbar() {
     <header>
       <nav className="navbar">
         <Link href="/" className="logo">
-          <Image src="/logo.jpg" 
+          <Image src="/logo.svg" 
                 alt="logo" 
-                width={50}
+                width={200}
                 height={50}
           />
         </Link>
